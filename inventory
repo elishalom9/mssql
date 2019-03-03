@@ -1,2 +1,2 @@
 [db]
-db01 ansible_user=administrator ansible_password=h465FZH$*zh&4MKTxAqNvY2kK-J*sB2* ansible_port=5985 ansible_connection=winrm ansbile_winrm_cert_validation=ignore
+db01 ansible_user=administrator ansible_password="h465FZH$*zh&4MKTxAqNvY2kK-J*sB2*" ansible_port=5985 ansible_connection=winrm ansbile_winrm_cert_validation=ignore
